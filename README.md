@@ -110,7 +110,7 @@ Main Thread     →  [GPU Processing]   (CUDA/NPP kernels)
 5. **Retrieve**: GPU → CPU (sync copy)
 6. **Display**: OpenCV window
 
-## 📁 Project Structure
+## 📁 Project Structure ( as of today ) 
 
 ```
 cuda-tracker/
