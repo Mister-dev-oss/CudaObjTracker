@@ -12,7 +12,7 @@ The tracking algorithm and feature detection method are still being evaluated. T
 
 - [x] GPU-accelerated grayscale conversion using NPP (NVIDIA Performance Primitives)
 - [x] Triple buffering pipeline (capture → pinned memory → GPU)
-- [o] Image preprocessing (currently doing, for now only greyscale)
+- [ ] Image preprocessing (currently doing, for now only greyscale)
 - [ ] Feature detection (ORB/SIFT/Harris - TBD)
 - [ ] Feature matching and tracking
 - [ ] Object localization and bounding boxes
